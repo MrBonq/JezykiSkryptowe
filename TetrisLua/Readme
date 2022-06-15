@@ -1,0 +1,14 @@
+Controls:
+(Arrows)
+Left - move block to the left
+Right - move block to the right
+Up - rotate block
+Down - move block to the down
+
+Escape - menu
+
+What has been done:
+- Points counter
+- Sound if line is complete and blocks are destroyed
+- Sound of lose when there is no space for blocks
+- Save the game with blocks and score but there is problem with load
